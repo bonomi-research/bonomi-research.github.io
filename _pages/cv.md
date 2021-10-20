@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Training
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PostDoc in Biomedical Informatics, University of California, San Diego
+* Ph.D in Computer Science and Informatics, Emory University
+* M.S. in Computer Engineering, University of Padua
 
-Work experience
+  
+Conference Scientific Program Commitees (Current)
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* IEEE International Conference on Healthcare Informatics (ICHI), 2018 - now
+* IEEE International Conference on Big Data (IEEE BigData), 2018 - now
+* IEEE International Conference on Data Mining (ICDM), 2018 - now
+* American Medical Informatics Association (AMIA), 2016 - now
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Reviewer (Current)
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* IEEE Transactions on Dependable and Secure Computing, 2021
+* Nature Genetics, 2020 - now
+* Nature Medicine, 2020 - now
+* Nature Computational Science, 2020 - now
+* Journal of Biomedical Informatics (JBI), 2016 - now
