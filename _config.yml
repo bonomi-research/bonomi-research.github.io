@@ -161,7 +161,7 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-auto_ids: false
+auto_ids: false         #false does not create automatic links
 
 # Markdown Processing
 kramdown:
