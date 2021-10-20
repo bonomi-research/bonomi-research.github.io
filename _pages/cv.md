@@ -11,7 +11,7 @@ redirect_from:
 
 #### Training
 
-* PostDoc in Biomedical Informatics, University of California, San Diego
+* PostDoc in Biomedical Informatics, University of California San Diego
 * Ph.D in Computer Science and Informatics, Emory University
 * M.S. in Computer Engineering, University of Padua
 
