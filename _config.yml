@@ -83,10 +83,10 @@ author:
   name             : "Luca Bonomi"
   avatar           : "/images/headshots-LB-small.jpg"
   bio              : "Luca Bonomi is an Assistant Professor in Biomedical Informatics."
-  location         : "Nashville, TN"
+  location         : "2525 West End"
   employer         : "Vanderbilt Unversity Medical Center"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "luca.bonomi@vumc.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
