@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Luca Bonomi"
-  avatar           : "/headshots-LB-small.png"
+  avatar           : "headshots-LB-small.png"
   bio              : "Assistant Professor in Biomedical Informatics"
   location         : "2525 West End"
   employer         : "Vanderbilt Unversity Medical Center"
