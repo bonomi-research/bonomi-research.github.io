@@ -190,7 +190,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   projects:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -256,7 +256,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true  
+      share: false  
     
 # Sass/SCSS
 sass:
