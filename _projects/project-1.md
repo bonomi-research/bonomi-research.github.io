@@ -2,7 +2,7 @@
 title: 'Paper Title Number 1'
 collection: projects
 permalink: /projects/integration
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work - chek update.'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
