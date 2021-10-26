@@ -11,7 +11,7 @@ Here is an overview of our recent research projects
 
 ## Privacy-protecting methods for data integration
 
-Integrating health datasets from multiple sites is vital in enabling powerful analytics and advancing clinical practice. In the data integration process, privacy is a major challenge, as sites must ensure data confidentiality. To achieve privacy current approaches mainly rely on security-based primitives (e.g., encryption, Secure Multi-party Computation - SMC). We have advanced these approaches by leveraging dimensionality reduction and similarity-based techniques to perform scalable data linkage with rigorous privacy protection. Additionally, we have proposed methods to facilitate the integration and re-use of de-identified datasets.
+Integrating health datasets from multiple sites is vital in enabling powerful analytics and advancing clinical practice. In the data integration process, privacy is a major challenge, as sites must ensure data confidentiality. To achieve privacy current approaches mainly rely on security-based primitives (e.g., encryption, SMC). We have advanced these approaches by leveraging dimensionality reduction and similarity-based techniques to perform scalable data linkage with rigorous privacy protection. Additionally, we have proposed methods to facilitate the integration and re-use of de-identified datasets.
 
 ### Relevant Publications
 -	Bonomi, L. and Jiang, X., 2018. Linking temporal medical records using non-protected health information data. Statistical methods in medical research, 27(11), pp.3304-3324
