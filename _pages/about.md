@@ -15,5 +15,5 @@ I am an Assistant Professor in the Department of Biomedical Informatics at Vande
 I am interested in developing privacy-protecting technology to accelerate data-driven biomedical research. 
 
 * Data integration methods to facilitate collaborative research efforts
-* Data sharing approaches to broader data access and re-use
+* Data sharing approaches to promote data access and re-use
 * Data analysis solutions to enable emerging biomedical applications 
