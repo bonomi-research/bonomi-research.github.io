@@ -5,6 +5,8 @@ permalink: /research-projects/
 author_profile: true
 ---
 
+<div style="text-align: justify">
+  
 <a name="top"></a>
 
 Here is an overview of our recent research projects
@@ -41,4 +43,6 @@ Current information systems enable the collection of large biomedical datasets w
 - Bonomi, L. and Jiang, X., 2018, June. Pattern Similarity in Time Interval Sequences. In 2018 IEEE International Conference on Healthcare Informatics (ICHI) (pp. 434-435). IEEE
 
 [Back to top](#top)
+  
+  </div>
 
