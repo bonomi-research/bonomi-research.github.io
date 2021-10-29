@@ -5,7 +5,6 @@ permalink: /research-projects/
 author_profile: true
 ---
 
-<div style="text-align: justify">
   
 <a name="top"></a>
 
@@ -13,7 +12,7 @@ Here is an overview of our recent research projects
 
 ## Privacy-protecting methods for data integration
 
-Integrating health datasets from multiple sites is vital in enabling powerful analytics and advancing clinical practice. In the data integration process, privacy is a major challenge, as sites must ensure data confidentiality. To achieve privacy current approaches mainly rely on security-based primitives (e.g., encryption, SMC). We have advanced these approaches by leveraging dimensionality reduction and similarity-based techniques to perform scalable data linkage with rigorous privacy protection. Additionally, we have proposed methods to facilitate the integration and re-use of de-identified datasets.
+<div style="text-align: justify"> Integrating health datasets from multiple sites is vital in enabling powerful analytics and advancing clinical practice. In the data integration process, privacy is a major challenge, as sites must ensure data confidentiality. To achieve privacy current approaches mainly rely on security-based primitives (e.g., encryption, SMC). We have advanced these approaches by leveraging dimensionality reduction and similarity-based techniques to perform scalable data linkage with rigorous privacy protection. Additionally, we have proposed methods to facilitate the integration and re-use of de-identified datasets.</div>
 
 ### Relevant Publications
 -	Bonomi, L. and Jiang, X., 2018. Linking temporal medical records using non-protected health information data. Statistical methods in medical research, 27(11), pp.3304-3324
@@ -24,7 +23,7 @@ Integrating health datasets from multiple sites is vital in enabling powerful an
 
 ## Privacy-protecting data sharing and analysis
 
-The analysis and sharing of health data are central in accelerating medical research. However, recent studies have shown that even the release of aggregate level data (e.g., statistics) may lead to the disclosure of sensitive information (e.g., membership disclosure, phenotype inference). To this end, we have developed novel privacy-protecting methods that build on formal statistical disclosure control techniques (e.g., information theory, differential privacy) to provide privacy while retaining the usability of the data in emerging biomedical application settings.
+<div style="text-align: justify"> The analysis and sharing of health data are central in accelerating medical research. However, recent studies have shown that even the release of aggregate level data (e.g., statistics) may lead to the disclosure of sensitive information (e.g., membership disclosure, phenotype inference). To this end, we have developed novel privacy-protecting methods that build on formal statistical disclosure control techniques (e.g., information theory, differential privacy) to provide privacy while retaining the usability of the data in emerging biomedical application settings. </div>
 
 ### Relevant Publications
 - Bonomi, L., Huang, Y. and Ohno-Machado, L. Privacy challenges and research opportunities for genomic data sharing. Nat Genet (2020).
@@ -35,7 +34,7 @@ The analysis and sharing of health data are central in accelerating medical rese
 
 ## Knowledge discovery with biomedical data
 
-Current information systems enable the collection of large biomedical datasets which can be used by data-driven models to significantly advance patient care. To extract useful medical knowledge, we have proposed new pattern mining techniques that capture the temporal correlation between the medical events (e.g., symptoms for a disease, disease evolution) and are robust in the presence of noise/missing values. These patterns can be used to construct similarity measures for effective patient retrieval in large biomedical datasets and to improve prediction models for mortality studies
+<div style="text-align: justify"> Current information systems enable the collection of large biomedical datasets which can be used by data-driven models to significantly advance patient care. To extract useful medical knowledge, we have proposed new pattern mining techniques that capture the temporal correlation between the medical events (e.g., symptoms for a disease, disease evolution) and are robust in the presence of noise/missing values. These patterns can be used to construct similarity measures for effective patient retrieval in large biomedical datasets and to improve prediction models for mortality studies.</div>
 
 ### Relevant Publications
 - Bonomi, L., Fan L, Jiang X., 2020. Noise-tolerant similarity search in temporal medical data. Journal of biomedical informatics, 13, p.103667
@@ -43,6 +42,5 @@ Current information systems enable the collection of large biomedical datasets w
 - Bonomi, L. and Jiang, X., 2018, June. Pattern Similarity in Time Interval Sequences. In 2018 IEEE International Conference on Healthcare Informatics (ICHI) (pp. 434-435). IEEE
 
 [Back to top](#top)
-  
-  </div>
+ 
 
