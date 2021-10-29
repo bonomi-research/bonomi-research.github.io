@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am an Assistant Professor in the Department of Biomedical Informatics at Vandebilt University Medical Center (VUMC). Prior to joining VUMC, I completed my postdoctoral training in biomedical informatics at UCSD Health Department of Biomedical Informatics. I obtained a Ph.D. in Computer Science from Emory University. 
+<div style="text-align: justify"> I am an Assistant Professor in the Department of Biomedical Informatics at Vandebilt University Medical Center (VUMC). Prior to joining VUMC, I completed my postdoctoral training in biomedical informatics at UCSD Health Department of Biomedical Informatics. I obtained a Ph.D. in Computer Science from Emory University.  </div>
 
 ## Research Interests
 
