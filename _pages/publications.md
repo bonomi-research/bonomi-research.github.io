@@ -8,6 +8,12 @@ author_profile: true
 
 ## Peer Reviewed Papers
 
+- Bonomi, L. and Fan, L., 2022, June. Sharing Time-to-Event Data with Privacy Protection. In 2022 IEEE 10th International Conference on Healthcare Informatics (ICHI) (pp. 11-20). IEEE
+
+- Zhang, C. and Bonomi, L., 2022, June. Mitigating Membership Inference in Deep Learning Applications with High Dimensional Genomic Data. In 2022 IEEE 10th International Conference on Healthcare Informatics (ICHI) (pp. 01-03). IEEE.
+
+- Bonomi, L., Wu, Z. and Fan, L., 2022. Sharing personal ECG time-series data privately. Journal of the American Medical Informatics Association.
+
 - Baxter, S.L., Saseendrakumar, B.R., Paul, P., Kim, J., Bonomi, L., Kuo, T.T., Loperena, R., Ratsimbazafy, F., Boerwinkle, E., Cicek, M. and Clark, C.R., 2021. Predictive analytics for glaucoma using data from the all of us research program. American journal of ophthalmology, 227, pp.74-86.
 
 - Bonomi, L., Fan, L. and Jiang, X., 2021. Noise-tolerant similarity search in temporal medical data. Journal of Biomedical Informatics, 113, p.103667.
