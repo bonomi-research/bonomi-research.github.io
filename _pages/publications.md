@@ -16,11 +16,11 @@ author_profile: true
 
 - Bonomi, L., Wu, Z. and Fan, L., 2022. Sharing personal ECG time-series data privately. Journal of the American Medical Informatics Association, 29(7), pp.1152-1160. [https://doi.org/10.1093/jamia/ocac047](https://doi.org/10.1093/jamia/ocac047)
 
-- Baxter, S.L., Saseendrakumar, B.R., Paul, P., Kim, J., Bonomi, L., Kuo, T.T., Loperena, R., Ratsimbazafy, F., Boerwinkle, E., Cicek, M. and Clark, C.R., 2021. Predictive analytics for glaucoma using data from the all of us research program. American journal of ophthalmology, 227, pp.74-86.
+- Baxter, S.L., Saseendrakumar, B.R., Paul, P., Kim, J., Bonomi, L., Kuo, T.T., Loperena, R., Ratsimbazafy, F., Boerwinkle, E., Cicek, M. and Clark, C.R., 2021. Predictive analytics for glaucoma using data from the all of us research program. American journal of ophthalmology, 227, pp.74-86. [https://doi.org/10.1016/j.ajo.2021.01.008](https://doi.org/10.1016/j.ajo.2021.01.008)
 
-- Bonomi, L., Fan, L. and Jiang, X., 2021. Noise-tolerant similarity search in temporal medical data. Journal of Biomedical Informatics, 113, p.103667.
+- Bonomi, L., Fan, L. and Jiang, X., 2021. Noise-tolerant similarity search in temporal medical data. Journal of Biomedical Informatics, 113, p.103667. [https://doi.org/10.1016/j.jbi.2020.103667](https://doi.org/10.1016/j.jbi.2020.103667)
 
-- Bonomi, L., Huang, Y. and Ohno-Machado, L., 2020. Privacy challenges and research opportunities for genomic data sharing. Nature genetics, 52(7), pp.646-654.
+- Bonomi, L., Huang, Y. and Ohno-Machado, L., 2020. Privacy challenges and research opportunities for genomic data sharing. Nature genetics, 52(7), pp.646-654. [https://doi.org/10.1038/s41588-020-0651-0](https://doi.org/10.1038/s41588-020-0651-0)
 
 - Dai, W., Jiang, X., Bonomi, L., Li, Y., Xiong, H. and Ohno-Machado, L., 2020. VERTICOX: Vertically Distributed Cox Proportional Hazards Model Using the Alternating Direction Method of Multipliers. IEEE Transactions on Knowledge and Data Engineering.
 
