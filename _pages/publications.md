@@ -10,11 +10,11 @@ author_profile: true
 
 - Bonomi, L., Gousheh, S. and Fan, L., 2023, October. Enabling Health Data Sharing with Fine-Grained Privacy. In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (pp. 131-141). [https://doi.org/10.1145/3583780.3614864](https://doi.org/10.1145/3583780.3614864)
 
-- Bonomi, L. and Fan, L., 2022, June. Sharing Time-to-Event Data with Privacy Protection. In 2022 IEEE 10th International Conference on Healthcare Informatics (ICHI) (pp. 11-20). IEEE. [https://doi.org/10.1109/ichi54592.2022.00014] (https://doi.org/10.1109/ichi54592.2022.00014)
+- Bonomi, L. and Fan, L., 2022, June. Sharing Time-to-Event Data with Privacy Protection. In 2022 IEEE 10th International Conference on Healthcare Informatics (ICHI) (pp. 11-20). IEEE. [https://doi.org/10.1109/ichi54592.2022.00014](https://doi.org/10.1109/ichi54592.2022.00014)
 
-- Zhang, C. and Bonomi, L., 2022, June. Mitigating Membership Inference in Deep Learning Applications with High Dimensional Genomic Data. In 2022 IEEE 10th International Conference on Healthcare Informatics (ICHI) (pp. 01-03). IEEE. [https://doi.org/10.1109/ICHI54592.2022.00101] (https://doi.org/10.1109/ICHI54592.2022.00101)
+- Zhang, C. and Bonomi, L., 2022, June. Mitigating Membership Inference in Deep Learning Applications with High Dimensional Genomic Data. In 2022 IEEE 10th International Conference on Healthcare Informatics (ICHI) (pp. 01-03). IEEE. [https://doi.org/10.1109/ICHI54592.2022.00101](https://doi.org/10.1109/ICHI54592.2022.00101)
 
-- Bonomi, L., Wu, Z. and Fan, L., 2022. Sharing personal ECG time-series data privately. Journal of the American Medical Informatics Association, 29(7), pp.1152-1160. [https://doi.org/10.1093/jamia/ocac047] (https://doi.org/10.1093/jamia/ocac047)
+- Bonomi, L., Wu, Z. and Fan, L., 2022. Sharing personal ECG time-series data privately. Journal of the American Medical Informatics Association, 29(7), pp.1152-1160. [https://doi.org/10.1093/jamia/ocac047](https://doi.org/10.1093/jamia/ocac047)
 
 - Baxter, S.L., Saseendrakumar, B.R., Paul, P., Kim, J., Bonomi, L., Kuo, T.T., Loperena, R., Ratsimbazafy, F., Boerwinkle, E., Cicek, M. and Clark, C.R., 2021. Predictive analytics for glaucoma using data from the all of us research program. American journal of ophthalmology, 227, pp.74-86.
 
