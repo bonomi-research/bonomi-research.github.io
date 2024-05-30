@@ -8,7 +8,13 @@ author_profile: true
 
 ## Peer Reviewed Papers
 
+- Bonomi, L., Lionts, M. and Fan, L., 2023, December. Private Continuous Survival Analysis with Distributed Multi-Site Data. In 2023 IEEE International Conference on Big Data (BigData) (pp. 5444-5453). IEEE. [https://doi.org/10.1109/BigData59044.2023.10386571](https://doi.org/10.1109/BigData59044.2023.10386571)
+
+- Fan, L. and Bonomi, L., 2023, November. Hide Your Distance: Privacy Risks and Protection in Spatial Accessibility Analysis. In Proceedings of the 31st ACM International Conference on Advances in Geographic Information Systems (pp. 1-11). [https://doi.org/10.1145/3589132.3625656](https://doi.org/10.1145/3589132.3625656)
+
 - Bonomi, L., Gousheh, S. and Fan, L., 2023, October. Enabling Health Data Sharing with Fine-Grained Privacy. In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (pp. 131-141). [https://doi.org/10.1145/3583780.3614864](https://doi.org/10.1145/3583780.3614864)
+
+- Fan, L. and Bonomi, L., 2023, June. Mitigating membership inference in deep survival analyses with differential privacy. In 2023 IEEE 11th International Conference on Healthcare Informatics (ICHI) (pp. 81-90). IEEE. [https://doi.org/10.1109/ICHI57859.2023.00022](https://doi.org/10.1109/ICHI57859.2023.00022)
 
 - Bonomi, L. and Fan, L., 2022, June. Sharing Time-to-Event Data with Privacy Protection. In 2022 IEEE 10th International Conference on Healthcare Informatics (ICHI) (pp. 11-20). IEEE. [https://doi.org/10.1109/ichi54592.2022.00014](https://doi.org/10.1109/ichi54592.2022.00014)
 
