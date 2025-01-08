@@ -8,6 +8,10 @@ author_profile: true
 
 ## Peer Reviewed Papers
 
+- Myers, C.T., Kumar, R.D., Pilgram, L., Bonomi, L., Thomas, M., Griffith, O.L., Fullerton, S.M. and Gibbs, R.A., 2025. Genomic Data and Privacy. Clinical Chemistry, 71(1), pp.10-17. [https://doi.org/10.1093/clinchem/hvae184](https://doi.org/10.1093/clinchem/hvae184)
+
+- Fan, L., Bang, A. and Bonomi, L., 2024, June. Evaluating Generative Models in Medical Imaging. In 2024 IEEE 12th International Conference on Healthcare Informatics (ICHI) (pp. 553-555). IEEE. [https://doi.org/10.1109/ICHI61247.2024.00084](https://doi.org/10.1109/ICHI61247.2024.00084)
+
 - Bonomi, L., Lionts, M. and Fan, L., 2023, December. Private Continuous Survival Analysis with Distributed Multi-Site Data. In 2023 IEEE International Conference on Big Data (BigData) (pp. 5444-5453). IEEE. [https://doi.org/10.1109/BigData59044.2023.10386571](https://doi.org/10.1109/BigData59044.2023.10386571)
 
 - Fan, L. and Bonomi, L., 2023, November. Hide Your Distance: Privacy Risks and Protection in Spatial Accessibility Analysis. In Proceedings of the 31st ACM International Conference on Advances in Geographic Information Systems (pp. 1-11). [https://doi.org/10.1145/3589132.3625656](https://doi.org/10.1145/3589132.3625656)
